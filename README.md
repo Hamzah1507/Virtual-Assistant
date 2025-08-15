@@ -26,5 +26,3 @@ This project allows you to interact with an AI model through a web interface, si
 - **Hosting:** Vercel
 
 ---
-
-## 📂 Project Structure
